@@ -9,7 +9,7 @@
   "level" : 1,
   "tooltipKind" : "avalichitsnipui",
   "category" : "sniperRifle",
-  "itemTags" : ["weapon","ranged","rifle","sniperrifle"],
+  "itemTags" : ["weapon","ranged","rifle","sniperrifle","energy","upgradeableWeapon"],
   "twoHanded" : true,
   
   "animation" : "/items/active/weapons/ranged/gun.animation",
