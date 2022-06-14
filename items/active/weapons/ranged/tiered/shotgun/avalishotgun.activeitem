@@ -9,7 +9,7 @@
   "level" : 1,
   "tooltipKind" : "avalichitui",
   "category" : "shotgun",
-  "itemTags" : ["weapon","ranged","shotgun"],
+  "itemTags" : ["weapon","ranged","shotgun","energy","upgradeableWeapon"],
   "twoHanded" : true,
   
   "animation" : "/items/active/weapons/ranged/gun.animation",
