@@ -9,7 +9,7 @@
   "level" : 1,
   "tooltipKind" : "avalichitui",
   "category" : "pistol",
-  "itemTags" : ["weapon","ranged","pistol"],
+  "itemTags" : ["weapon","ranged","pistol","energy","upgradeableWeapon"],
   "twoHanded" : false,
   
   "animation" : "/items/active/weapons/ranged/gun.animation",
